@@ -1,0 +1,9 @@
+[Core]
+Name = GitBot
+Module = gitbot
+
+[Python]
+Version = 2+
+
+[Documentation]
+Description = Git plugin
